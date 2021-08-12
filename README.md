@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neon.
-- 👀 I’m interested in Web Develompment and interraction design.
+- 👀 I’m interested in Web Develompment and user inteface design.
 - 🌱 I’m currently learning ExpressJS.
 <!---
 mr-neon/mr-neon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
