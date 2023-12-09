@@ -6,6 +6,14 @@
 My name is Arhaan and I'm a UI and Frontend Web Developer from **Bangladesh**
 
 
+
+## ![#d1eda2](https://placehold.co/10x10/d1eda2/d1eda2.png) Bio
+- ⚙️ I use daily: `.html`, `.css`, `.js, .scss, .xd, .fig`
+- 🌱 I’m currently learning **Next.js**
+- 💬 Ping me about **UI Design** / **Web Design** / **Development** / **Shaders** / **WEBGL**
+- 📫 Reach me: [Email](mailto:btwitsneon@gmail.com/)
+
+
 ## ![#d1eda2](https://placehold.co/10x10/d1eda2/d1eda2.png) Technology
 
 
@@ -14,14 +22,6 @@ My name is Arhaan and I'm a UI and Frontend Web Developer from **Bangladesh**
 
 <img alt="Express" height="30px" src="https://git.elora.eu.org/icons/express.svg" />    <img alt="MongoDB" height="40px" src="https://git.elora.eu.org/icons/mongodb.svg" />    <img alt="Mongoose" height="30px" src="https://git.elora.eu.org/icons/mongoose.svg" />    <img alt="Adobe XD" height="40px" src="https://git.elora.eu.org/icons/xd.svg" />    <img alt="Figma" height="40px" src="https://git.elora.eu.org/icons/figma.svg" />
 </pre>
-
-
-## ![#d1eda2](https://placehold.co/10x10/d1eda2/d1eda2.png) Bio
-- ⚙️ I use daily: `.html`, `.css`, `.js, .scss, .xd, .fig`
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ping me about **UI Design** / **Web Design** / **Development** / **Shaders** / **WEBGL**
-- 📫 Reach me: [Email](mailto:btwitsneon@gmail.com/)
-
 
 
 
