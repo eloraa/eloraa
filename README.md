@@ -1,5 +1,5 @@
 
-<img alt="Tests Passing" src="https://git.elora.eu.org/x01.png?from=git" />
+<img alt="Tests Passing" src="https://git.elora.eu.org/x01.png" />
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
