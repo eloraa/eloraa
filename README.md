@@ -1,6 +1,3 @@
-
-<img alt="Banner" src="https://git.elora.eu.org/x01.png" />
-
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Neon and I'm a UI and Frontend Web Developer from **Bangladesh**
