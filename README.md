@@ -6,6 +6,5 @@ My name is Neon and I'm a UI and Frontend Web Developer from **Bangladesh**
 
 ## ![#d1eda2](https://placehold.co/10x10/d1eda2/d1eda2.png) Bio
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.scss`, `.xd`, `.fig`, `.ts`, `.tsx`, `.cpp`, , `.go`, `.lua`, `.glsl`
-- 🌱 I’m currently learning **Rust**
 - 💬 Ping me about **UI Design** / **Web Design** / **Development** / **Shaders** / **WEBGL**
 - 📫 Reach me: [Email](mailto:btwitsneon@gmail.com/)
